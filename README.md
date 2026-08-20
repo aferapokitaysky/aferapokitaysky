@@ -6,6 +6,11 @@
   From fintech ops tools to native macOS apps to campus safety systems, I like projects where the whole stack has to work together.
 </p>
 
+<p align="center">
+  <a href="https://portfolio.aferapokitaysky.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://t.me/cia0x"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
 <br/>
 
 ### Stack
