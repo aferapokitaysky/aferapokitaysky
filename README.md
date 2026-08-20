@@ -143,8 +143,15 @@ Bilingual (EN/RU) personal site — vanilla HTML/CSS/JS, GSAP animations, Lenis 
 
 <br/>
 
-### Activity
+### Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aferapokitaysky&hide_border=true&area=true" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faferapokitaysky&label=Public%20repos&query=%24.public_repos&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars-2-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faferapokitaysky&label=Followers&query=%24.followers&color=success&style=flat-square" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aferapokitaysky&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aferapokitaysky&layout=compact&theme=dark&hide_border=true" />
 </p>
