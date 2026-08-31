@@ -58,11 +58,7 @@ I build systems that are fast, clean, and built to last — from low-level C++ t
   <img src="https://img.shields.io/badge/3-Years-black?style=flat-square" />
 </p>
 
-| Period | Role | Focus |
-|---|---|---|
-| 2024 — Present | Full-Stack Developer | Modern web apps across React, Node.js, and .NET ecosystems |
-| 2023 — 2024 | Backend Developer | REST APIs, microservices, and database architectures with Django and PostgreSQL |
-| 2022 — 2023 | Systems Programmer | Performance-critical, low-level development in C++ and C# with NativeAOT |
+
 
 <br/>
 
