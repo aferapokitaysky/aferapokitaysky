@@ -1,4 +1,4 @@
-<h1 align="center">Danylo Korovainyi <sub>(ptrkxlord)</sub></h1>
+<h1 align="center">ptrkxlord</h1>
 
 <p align="center">Full-Stack Developer from Ukraine · building web products and desktop software</p>
 
@@ -132,11 +132,16 @@ Currently open to a junior full-stack role where I can ship useful work, learn f
   | [Portfolio](https://github.com/aferapokitaysky/portfolio) | This portfolio: multilingual static site, custom interaction design, and GitHub API integration. |
 </details>
 
-## GitHub
+## Stats
 
 <p>
   <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faferapokitaysky&query=%24.public_repos&label=public%20repositories&color=2563EB&style=flat-square">
   <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faferapokitaysky&query=%24.followers&label=followers&color=16A34A&style=flat-square">
+</p>
+
+<p align="center">
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aferapokitaysky&show_icons=true&theme=dark&hide_border=true&count_private=true">
+  <img height="165" alt="Most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aferapokitaysky&layout=compact&theme=dark&hide_border=true">
 </p>
 
 <p>Ukrainian and Russian are native languages; English — B2. If you are building something interesting, reach me on <a href="https://t.me/cia0x">Telegram</a> or by <a href="mailto:emoclxn481@gmail.com">email</a>.</p>
